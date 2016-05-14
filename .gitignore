@@ -1,2 +1,3 @@
 # license required images
 *.license.jpg
+/node_modules/
